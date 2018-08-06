@@ -1,3 +1,6 @@
+'''
+List of all Set Functions, 
+'''
 from __future__ import unicode_literals
 
 import requests
